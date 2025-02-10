@@ -1,4 +1,9 @@
-## Hi there 👋
+## 👋 Hi there, I'm Poornachandra!
+I am undergraduate Computer Science student! Trying to learn more everyday!
+Sic Parvis Magna!
+
+![](https://komarev.com/ghpvc/?username=poornachandraks&color=blue)
+
 
 <!--
 **poornachandraks/poornachandraks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
